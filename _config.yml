@@ -1,8 +1,8 @@
 # site settings
 title: Franco de Campos
-subtitle: Engenharia
+subtitle: Construtora
 email: contato@francodecampos.com.br
-description: Ajudamos nossos clientes a construir sonhos e planos. Do projeto à entrega das chaves.
+description: Nós ajudamos nossos clientes a construir sonhos e investir em novos projetos. Do croqui à entrega das chaves.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -23,7 +23,7 @@ facebook_url:
 github_url:
 gitlab_url:
 googleplus_url:
-instagram_url: https://instagram.com
+instagram_url: https://instagram.com/francodecampos.construtora
 linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
 pinterest_url:
 slack_url:
