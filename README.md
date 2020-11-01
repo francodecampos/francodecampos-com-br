@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/22492e81-864b-49dd-96a0-ea240ba873f3/deploy-status)](https://app.netlify.com/sites/francodecampos/deploys)
+
 # Forty - Jekyll Theme
 
 A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
