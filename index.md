@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Nós somos a Franco de Campos'
+landing-title: 'Nós somos a Franco de Campos Construtora'
 description: null
 image: null
 author: null
