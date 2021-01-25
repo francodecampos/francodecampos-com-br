@@ -1,36 +1,37 @@
-# site settings
-title: Franco de Campos
-subtitle: Construtora
-email: contato@francodecampos.com.br
-description: Ajudamos nossos clientes a construir sonhos e realizar planos. Do estudo à entrega das chaves, nós cuidamos de cada etapa de seu projeto.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author:
-street_address: Rua Prefeito Ataliba Silveira Franco, 37
-city: Mogi Mirim
-state: SP
-zip_code: 13801-321
-country: Brasil
-phone: (19) 3862-1401
 
-# homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+exclude:
+  - "/vendor/"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "README.md"
+  - "LICENSE.md"
+  - "*.gemspec"
 
-# social settings
-500px_url:
-facebook_url:
-github_url:
-gitlab_url:
-googleplus_url:
-instagram_url: https://instagram.com/francodecampos.construtora
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-pinterest_url:
-slack_url:
-twitter_url:
+keep_files:
+  - "CNAME"
+  - ".git"
+  - ".gitignore"
 
-# build settings
+
+# Site settings
+title: Franco de Campos Engenharia
+subtitle: "A free HTML5 agency template"
+url: "http://www.francodecampos.com.br/" # the base hostname & protocol for your site
+# baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
+baseurl: ""
+cover: "/assets/cover.png"
+logo: "/assets/logo.png"
+
+# Build settings
 markdown: kramdown
 
-sass:
-  style: compressed
+# Google analytics
+# ga_tracking_id: "UA-XXXX-1"
+
+# Category descriptions (for archive pages)
+descriptions:
+  - cat: jekyll
+    desc: "Posts describing Jekyll setup techniques."
+
+  - cat: dummy
+    desc: "Just some placeholder posts, lorem ipsum and the rest."
