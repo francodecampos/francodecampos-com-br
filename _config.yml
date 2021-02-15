@@ -15,7 +15,7 @@ keep_files:
 
 # Site settings
 title: Franco de Campos Engenharia
-subtitle: "A free HTML5 agency template"
+subtitle: "Projetos, construção e reformas"
 url: "http://www.francodecampos.com.br/" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: ""
